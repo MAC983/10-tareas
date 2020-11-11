@@ -1,0 +1,43 @@
+body {
+    font-family: 'Spinnaker', sans-serif;
+}
+
+h1 {
+ font-size: 50px;   
+ font-weight: 900;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 200;
+}
+
+p {
+    color: grey;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
